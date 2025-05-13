@@ -1,1 +1,1 @@
-"This contains my rectangular button"
+"This contains my rectangular button: width () and height ()"
